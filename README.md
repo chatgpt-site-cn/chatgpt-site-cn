@@ -1,9 +1,9 @@
 # 【 ChatGPT 镜像网站 】国内免费使用（支持GPT-4，GPT-4o，GPT-o1）【1月最新更新】
 
-> 更新时间：2025/01/16 <br />
+> 更新时间：2025/01/17 <br />
 > 作者：chatgpt-site-cn  
 
-**无需翻墙**，畅享国内免费体验的 **ChatGPT 镜像网站**！**支持 ChatGPT-4，无限使用 GPT-4o 和 o1-preview** <br />
+**无需翻墙**，畅享国内免费体验的 **ChatGPT 镜像网站**！**支持 ChatGPT-4，无限使用 GPT-4o 和 o1** <br />
 <br />
 我们精心整理了一些国内可访问的 **ChatGPT 镜像网站**，旨在方便国内用户轻松使用 ChatGPT。
 
