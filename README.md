@@ -1,6 +1,6 @@
 # 【 ChatGPT 镜像网站 】国内免费使用（支持GPT-4，GPT-4o，GPT-o1）【7月最新更新】
 
-> 更新：2025/07/02   
+> 更新：2025/07/10   
 > 作者：chatgpt-site-cn  
 
 **无需翻墙**，畅享国内免费体验的 **ChatGPT 镜像网站**！**支持 ChatGPT-4，无限使用 GPT-4o 和 o1**    
@@ -12,7 +12,7 @@
 | ChatGPT 镜像网站 | 网站 | 运营时间 | 支持模型 | AI绘画 | 特色 |
 |--------------------|-----------|------|------------|------------|------------|
 | ChatGPT一下 | [chat.yixiaai.com](https://xsimplechat.com/) | 1年半 | 支持3.5和4.0、GPT-4o、4o mini及 o1全模型 | 支持，DALL·E | 扫码即可使用 | 
-| AI智慧岛GPT | [chat.lify.vip](https://talk.lanjing.pro/) | 1年半 | 支持3.5和4.0、GPT-4o、4o mini及 o1全模型 | 支持，DALL·E | 提供 AI文件、AI PPT、AI助手、AI插件及思维导图功能 | 
+| AI智慧岛GPT | [chat.lify.vip](https://gpt.lanjing.pro/) | 1年半 | 支持3.5和4.0、GPT-4o、4o mini及 o1全模型 | 支持，DALL·E | 提供 AI文件、AI PPT、AI助手、AI插件及思维导图功能 | 
 | AI学习GPT | [chatgpt.lanjing.ai](https://chat.lanjingai.org/) | 1年 | 支持 GPT-4、4o、4o mini | 支持，DALL·E和Midjourney | 免费体验 |
 | 小鱼GPT | [ai.lansejingyu.com](https://ai.lansejingyu.com/) | 1年 | 支持 GPT-4、4o、4o mini | 支持 | 操作简单便捷 | 
 | 蓝鲸GPT | [lanjing.ai](https://lanjing.pro/) | 1年 | 支持 GPT-4、4o | 不支持 | 免费体验 | 
